@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Search indexing is discouraged by the HTML noindex tag.
+# This file and noindex are not access control.
